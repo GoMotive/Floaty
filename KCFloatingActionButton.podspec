@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "KCFloatingActionButton"
+  s.name         = "Floaty"
   s.version      = "2.0.0"
   s.summary      = "Floating Action Button for iOS"
   s.homepage     = "https://github.com/kciter/KCFloatingActionButton"
